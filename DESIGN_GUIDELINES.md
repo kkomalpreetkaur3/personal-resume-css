@@ -6,10 +6,15 @@
 - Accent: #ECF0F1 (Light Gray)
 
 ## Typography
-- Heading Font: 'Lora', serif 
-- Body Font: 'Nunito', sans-serif
+- Heading Font: 'Roboto Slab', serif 
+- Body Font: 'Open Sans', sans-serif
 
 ## Layout
 - Header and Footer: Centered with Flexbox for simplicity.
-- Main Content: Single-column layout to maintain a clean and minimal design.
+- Main Content: Two-column grid on desktop, collapse to single-colum on small screens.
 - Responsive: Uses padding and spacing adjustments for tablet and mobile views.
+
+## Accessibility
+- ARIA rules for navigation
+- High color contrast between text and background.
+- Keyboard focus style links

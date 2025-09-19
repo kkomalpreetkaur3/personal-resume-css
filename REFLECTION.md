@@ -25,3 +25,17 @@ I used different semantic elements in this code like <section>, <header>, <img> 
 - I added <footer> section with link and contact information.
 - I might include one more section for Strengths to make resume more valuable.
 
+# Module 2 Assignment: Personal Resume with CSS
+
+## Can I explain what my code does?
+
+My code enhances the resume webpage from module 1 by incorporating design, responsiveness and accessibility through CSS. It includes:
+
+- A header and navigation bar with a cohesive color scheme and hover interactions.
+- An About Me section using Flexbox layout with a circular profile image for a modern look.
+- Consistent styling across Skills, Experience, Education, and Strengths sections for improved readability.
+- Integration of Google Fonts for custom typography.
+- Responsive layout achieved with media queries for mobile, tablet, and desktop devices.
+- A footer displaying copyright information.
+
+## 
