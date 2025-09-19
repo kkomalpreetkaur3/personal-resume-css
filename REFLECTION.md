@@ -38,4 +38,19 @@ My code enhances the resume webpage from module 1 by incorporating design, respo
 - Responsive layout achieved with media queries for mobile, tablet, and desktop devices.
 - A footer displaying copyright information.
 
-## 
+## What was my coding process?
+
+- Instead of just writing the code right away, I started with planning and organizing. I reviewed the instructions carefully and outlined which color contrast, font,, etc. I can use.
+
+- As I wrote my code, I worked in small steps, testing frequently to make sure everything is correct. I committed each major change to GitHub with a clear and concise message, which kept me organised.My strategy was to build the structure first and than refine it before moving forward.
+
+## What challenges did I have?
+
+- Choosing between Flexbox and Grid: I experimented to find the best fit.
+- Color contrast issues: It was very hard for me to choose perfect color contrast.
+
+## What would I do differently now?
+
+- Now I have learned more about CSS, I would apply more pseudo-classes like a:hover and a:focus in my design process to make the navigation and links more effective.
+
+- Finally, I would plan responsiveness earlier, making sure that the layout adjusts smoothly for mobile, tablet and desktop.
